@@ -1,0 +1,45 @@
+/* =========== Styles =========== */
+
+.menu {
+    background: rgba(7,7,7,1);
+    color: #fff;
+    padding-top: 70px !important;
+    padding-bottom: 50px !important;
+    padding-right: 100px !important;
+    padding-left: 150px !important;
+}
+
+nav a {
+    margin-right: 20px;
+}
+
+.banner {
+    background: rgba(7,7,7,1);
+    padding-top: 150px;
+}
+
+.banner-top-logo {
+    margin-left: 150px;
+}
+
+.banner-top-left {
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.banner-top-right {
+    border-right-style: solid;
+    border-right-color: #fab906;
+}
+
+footer{
+    background: #fab906;
+}
+
+.offy-color {
+    color: #fab906 !important;
+}
+
+.offy-bg {
+    background: #fab906;
+}
