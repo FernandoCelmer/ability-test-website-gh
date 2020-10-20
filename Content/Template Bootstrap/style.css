@@ -1,4 +1,10 @@
-/* =========== Styles =========== */
+
+@font-face {
+    font-family: "Maven Pro";
+    src: url("/fonts/MavenPro-VariableFont_wght.ttf") format("woff2");
+  }
+
+/* =========== Menu =========== */
 
 .menu {
     background: rgba(7,7,7,1);
@@ -13,9 +19,12 @@ nav a {
     margin-right: 20px;
 }
 
+/* =========== Banner =========== */
+
 .banner {
     background: rgba(7,7,7,1);
     padding-top: 150px;
+    border-radius: 0px !important;
 }
 
 .banner-top-logo {
@@ -32,9 +41,13 @@ nav a {
     border-right-color: #fab906;
 }
 
+/* =========== Footer =========== */
+
 footer{
     background: #fab906;
 }
+
+/* =========== Default =========== */
 
 .offy-color {
     color: #fab906 !important;
@@ -43,3 +56,108 @@ footer{
 .offy-bg {
     background: #fab906;
 }
+
+.btn-primary {
+    color: #fff;
+    background-color: #fab906;
+    border-color: #fab906;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+
+.btn-light {
+    color: #000000;
+    background-color: #ffffff;
+    border-color: #ffffff;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+
+.btn-dark {
+    color: #ffffff;
+    background-color: #000000;
+    border-color: #000000;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+
+.container {
+    margin-top: 135px;
+    padding-bottom: 135px;
+}
+
+/* =========== Services =========== */
+
+.services-container {
+    background-image: url(images/img_banner_01.png);
+    background-size: cover;
+}
+
+.services-block {
+    background: #fff;
+    border-radius: 5px;
+    padding-bottom: 85px;
+    padding-top: 55px;
+    margin: 25px;
+}
+
+.services-icon {
+    font-size: xxx-large;
+    color: #fab906;
+}
+
+.services-icon-arrow {
+    color: #fab906;
+    font-size: x-large;
+}
+
+/* =========== Business-03 =========== */
+
+.banner-business-03 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+/* =========== Business-04 =========== */
+
+.banner-business-04 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #fab906;
+}
+
+/* =========== Business-05 =========== */
+
+.banner-business-05 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+/* =========== Business-06 =========== */
+
+.banner-business-06 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #ebebeb;
+}
+
+/* =========== Business-06 =========== */
+
+.banner-business-07 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+/* =========== Business-06 =========== */
+
+.banner-business-08 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
