@@ -4,7 +4,7 @@
 <section id="banner" class="jumbotron text-center banner">
             <div class="row">
                 <div class="col banner-top-right"> 
-                <img class="banner-top-logo float-right" src="<?php echo asset('public/images/img_banner_logo.png')?>">
+                <img class="banner-top-logo float-left" src="<?php echo asset('public/images/img_banner_logo.png')?>">
                 </div>
                 <div class="col text-left banner-top-left">
                 <h1 style="font-size: 75px; color: #fab906;" class="font-weight-light">Lorem ipsum</h1>
@@ -78,7 +78,7 @@
                     <p><a class="btn btn-primary font-weight-bold" href="#" role="button">Saiba mais</a></p>
                 </div>
                 <div class="col-md-auto">
-                    <img style="width: 1000px; float: right;" src="<?php echo asset('public/images/img_banner_02.jpg')?>">
+                    <img style="width: 750px; float: right;" src="<?php echo asset('public/images/img_banner_02.jpg')?>">
                 </div>
             </div>
         </div>
@@ -93,14 +93,14 @@
                     <p><a class="btn btn-dark font-weight-bold" href="#" role="button">Saiba mais</a></p>
                 </div>
                 <div class="col-md-auto">
-                    <img style="width: 1000px; float: right;" src="<?php echo asset('public/images/img_banner_04.png')?>">
+                    <img style="width: 750px; float: right;" src="<?php echo asset('public/images/img_banner_04.png')?>">
                 </div>
             </div>
         </div>
 
-        <div id="banner-business-05" class="banner-business-05">
-            <div class="row" style="padding-left: 350px;">
-                <div class="col-md-6" style="padding-top: 100px; padding-bottom: 100px;">
+        <div id="banner-business-05" class="container">
+            <div class="row">
+                <div class="col">
                     <h2 style="font-size: 50px;">Lorem ipsum</h2>
                     <h5 class="font-weight-bold" style="font-size: 25px; color: #fab906;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h5>
                     <br>
@@ -108,8 +108,8 @@
                     <br>
                     <p><a class="btn btn-primary font-weight-bold" href="#" role="button">Saiba mais</a></p>
                 </div>
-                <div class="col-md-auto">
-                    <img style="width: 500px; float: left; border-radius: 50%;" src="<?php echo asset('public/images/img_banner_03.png')?>">
+                <div class="col">
+                    <img style="width: 350px; float: left; border-radius: 50%;" src="<?php echo asset('public/images/img_banner_03.png')?>">
                 </div>
             </div>
         </div>

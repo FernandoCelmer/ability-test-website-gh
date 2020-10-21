@@ -31,7 +31,7 @@ nav a {
 }
 
 .banner-top-logo {
-    margin-left: 150px;
+    margin-left: 50px;
 }
 
 .banner-top-left {
@@ -98,15 +98,15 @@ footer{
 /* =========== Services =========== */
 
 .services-container {
-    background-image: url(../images/img_banner_01.png);
+    background-image: url(images/img_banner_01.png);
     background-size: cover;
 }
 
 .services-block {
     background: #fff;
     border-radius: 5px;
-    padding-bottom: 85px;
-    padding-top: 55px;
+    padding-bottom: 25px;
+    padding-top: 25px;
 }
 
 .services-icon {
