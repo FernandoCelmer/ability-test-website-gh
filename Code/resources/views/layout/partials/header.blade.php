@@ -1,10 +1,17 @@
-<section class="jumbotron text-center">
-     <div class="container">
-       <h1 class="jumbotron-heading">Album example</h1>
-       <p class="lead text-muted">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sIet, but not too short so folks don't simply skip over it entirely.</p>
-       <p>
-         <a href="#" class="btn btn-primary">Main call to action</a>
-         <a href="#" class="btn btn-secondary">Secondary action</a>
-       </p>
-     </div>
-</section>
+<nav class="navbar navbar-expand-lg menu">
+    <h5 class="my-0 mr-md-auto logo font-weight-bold">Logo</h5>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav font-weight-bold nav navbar-nav ml-auto">
+            <a class="nav-item nav-link active offy-color" href="#">Home</a>
+            <a class="nav-item nav-link text-white" href="#">Empresa</a>
+            <a class="nav-item nav-link text-white" href="#">Soluções</a>
+            <a class="nav-item nav-link text-white" href="#">Eventos</a>
+            <a class="nav-item nav-link text-white" href="#">Blog</a>
+            <a class="nav-item nav-link text-white" href="#">Contato</a>
+            <a class="nav-item nav-link text-white font-weight-light offy-color" href="#">Portal do Cliente  <i class="fa fa-user" aria-hidden="true"></i></a>
+        </div>
+    </div>
+</nav>

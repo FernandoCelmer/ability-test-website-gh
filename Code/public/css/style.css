@@ -1,0 +1,194 @@
+/* =========== Menu =========== */
+
+.menu {
+    background: rgba(7,7,7,1);
+    color: #fff;
+    padding-top: 70px !important;
+    padding-bottom: 50px !important;
+    padding-right: 100px !important;
+    padding-left: 150px !important;
+}
+
+nav a {
+    margin-right: 20px;
+}
+
+.logo {
+    background-color: #fab906;
+    color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+/* =========== Banner =========== */
+
+.banner {
+    background: rgba(7,7,7,1);
+    padding-top: 150px;
+    border-radius: 0px !important;
+}
+
+.banner-top-logo {
+    margin-left: 150px;
+}
+
+.banner-top-left {
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.banner-top-right {
+    border-right-style: solid;
+    border-right-color: #fab906;
+}
+
+/* =========== Footer =========== */
+
+footer{
+    background: #fab906;
+}
+
+/* =========== Default =========== */
+
+.offy-color {
+    color: #fab906 !important;
+}
+
+.offy-bg {
+    background: #fab906;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #fab906;
+    border-color: #fab906;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+
+.btn-light {
+    color: #000000;
+    background-color: #ffffff;
+    border-color: #ffffff;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+
+.btn-dark {
+    color: #ffffff;
+    background-color: #000000;
+    border-color: #000000;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+
+.container {
+    margin-top: 135px;
+    padding-bottom: 135px;
+}
+
+/* =========== Services =========== */
+
+.services-container {
+    background-image: url(../images/img_banner_01.png);
+    background-size: cover;
+}
+
+.services-block {
+    background: #fff;
+    border-radius: 5px;
+    padding-bottom: 85px;
+    padding-top: 55px;
+}
+
+.services-icon {
+    font-size: 75px !important;;
+    color: #fab906;
+}
+
+.services-icon-arrow {
+    color: #fab906;
+    font-size: x-large;
+}
+
+/* =========== Business-03 =========== */
+
+.banner-business-03 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+/* =========== Business-04 =========== */
+
+.banner-business-04 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #fab906;
+}
+
+/* =========== Business-05 =========== */
+
+.banner-business-05 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+/* =========== Business-06 =========== */
+
+.banner-business-06 {
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+    background: #ebebeb;
+}
+
+/* =========== Business-06 =========== */
+
+.banner-business-07 {
+    padding-bottom: 100px;
+}
+
+/* =========== Business-06 =========== */
+
+.banner-business-08 {
+    margin-top: 0px;
+    padding-bottom: 0px;
+}
+
+#container {
+    display: inline-block;
+    position: relative;
+  }
+  
+#container figcaption {
+    position: absolute;
+    top: 183px;
+    left: 10px;
+    font-size: 15px;
+    background-color: #eaeaeab0;
+    color: black;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.contact-form {
+    padding: 25px;
+    border: 2px solid #989898;
+}
+
+.email-form {
+    padding: 25px;
+    border: #000;
+    border-bottom: 4px solid #000000;
+    background: #0000;
+    color: #000000;
+}
