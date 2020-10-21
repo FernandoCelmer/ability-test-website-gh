@@ -4,7 +4,7 @@
 <section id="banner" class="jumbotron text-center banner">
             <div class="row">
                 <div class="col banner-top-right"> 
-                <img class="banner-top-logo float-left" src="<?php echo asset('public/images/img_banner_logo.png')?>">
+                <img class="banner-top-logo float-right" src="<?php echo asset('public/images/img_banner_logo.png')?>">
                 </div>
                 <div class="col text-left banner-top-left">
                 <h1 style="font-size: 75px; color: #fab906;" class="font-weight-light">Lorem ipsum</h1>
@@ -303,7 +303,7 @@
                     </div>
                     </div>
                     <div class="d-none d-lg-block">
-                    <img class="bd-placeholder-img" width="300" height="550" preserveaspectratio="xMidYMid slice"
+                    <img class="bd-placeholder-img" width="300" height="675" preserveaspectratio="xMidYMid slice"
                     focusable="false" role="img" aria-label="Placeholder: Thumbnail" src="<?php echo asset('public/images/img_contact.jpg')?>" style="object-fit: cover; object-position: center;">
                     </div>
                 </div>

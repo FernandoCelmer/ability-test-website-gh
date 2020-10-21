@@ -98,7 +98,7 @@ footer{
 /* =========== Services =========== */
 
 .services-container {
-    background-image: url(images/img_banner_01.png);
+    background-image: url(../images/img_banner_01.png);
     background-size: cover;
 }
 
