@@ -18,3 +18,14 @@ Route::get('/welcome', function () {
 Route::get('/', function () {
     return view('demo');
 });
+
+// Render in view
+Route::get('/contact', [
+    'uses' => 'ContactUsFormController@createForm'
+]);
+
+// Post form data
+Route::post('/contact', [
+    'uses' => 'ContactUsFormController@ContactUsForm',
+    'as' => 'contact.store'
+]);
