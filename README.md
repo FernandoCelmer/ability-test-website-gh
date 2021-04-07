@@ -11,7 +11,7 @@
 - [Bootstrap](https://getbootstrap.com/)
 
 ## Demo
-- [Website GH Test](http://indexoffy.com/dev/website-gh-test) 
+- [Website GH Test](#) 
 
 ## Template 
 ________________________________
